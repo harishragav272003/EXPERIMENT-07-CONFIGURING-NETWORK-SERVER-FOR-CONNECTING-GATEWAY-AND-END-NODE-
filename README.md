@@ -1,5 +1,14 @@
- ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
- 
+### DATE: 26/4/2024
+
+### NAME: HARISH RAGAV S
+
+### REGISTER NO: 212222110013
+
+### DEPARTMENT NO: CSE(IOT)
+
+
+# EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+
 ## Aim: To  configure  the Network server and end device for traferring data on the network
 ## Components required: end node stm 32 development kit , dragino LPS8, network server 
 
@@ -47,8 +56,8 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
 
+![Screenshot 2024-05-07 104643](https://github.com/Alfredsec/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/120621608/99c5dcb3-cbff-4a9c-93f0-acd7453225d6)
 
 
 
